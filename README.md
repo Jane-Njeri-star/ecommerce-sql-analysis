@@ -26,10 +26,4 @@ This project analyzes e-commerce sales data to uncover revenue trends and busine
 - SQL (MySQL)
 - Power BI
 
-##  Dashboard
 
-
-## 🚀 Next Steps
-- Product-level analysis
-- Customer segmentation
-- Revenue optimization strategies
